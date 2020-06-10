@@ -19,7 +19,7 @@ function InputArea(props) {
         props.onAdd(inputText);
         setInputText("")
       }}>
-        <span className="add" >Addd</span>
+        <span className="add" >Add</span>
       </button>
     </div>
   );
